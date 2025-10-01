@@ -6,9 +6,9 @@ Prazer! Eu me chamo Alvaro Carvalho de Lima
 
 
 <div align="center">
-  <a href="https://github.com/Asano044">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Asano044&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asano044&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/alvaro-lima904">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alvaro-lima904&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-lima904&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <h2 align="center">Linguagens que utilizo: </h2>
@@ -28,4 +28,4 @@ Prazer! Eu me chamo Alvaro Carvalho de Lima
   <a href="https://www.linkedin.com/in/alvaro-carvalho-de-lima-82429a210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   </div>
   
-![Snake animation](https://github.com/Asano044/Asano044/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alvaro-lima904/alvaro-lima904/blob/output/github-contribution-grid-snake.svg)
