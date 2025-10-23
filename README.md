@@ -1,10 +1,14 @@
+<div>
+    <img align="right" alt="dev-gif" height="120" width="150" src="https://i.giphy.com/media/unQ3IJU2RG7DO/giphy.webp">
+</div>
+
 ### Seja bem-vindo ao meu GitHub 👋
 
 Prazer! Eu me chamo Alvaro Carvalho de Lima
 
-📙Atualmente estou estudando Java
+📙Atualmente estudando Java
 
-
+<br>
 <div align="center">
   <a href="https://github.com/alvaro-lima904">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alvaro-lima904&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,13 +16,13 @@ Prazer! Eu me chamo Alvaro Carvalho de Lima
 </div>
 
 <h2 align="center">Linguagens que utilizo: </h2>
-
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Alv-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alv-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Alv-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Alv-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 <h2 align="center">Contato:</h2>
