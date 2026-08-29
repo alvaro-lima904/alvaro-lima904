@@ -1,7 +1,3 @@
-<div>
-    <img align="right" alt="dev-gif" height="120" width="150" src="https://i.giphy.com/media/unQ3IJU2RG7DO/giphy.webp">
-</div>
-
 ### Seja bem-vindo ao meu GitHub 👋
 
 Prazer! Eu me chamo Alvaro Carvalho de Lima
