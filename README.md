@@ -119,14 +119,3 @@ Tenho como objetivo continuar aprofundando meus conhecimentos em:
 
 💼 *LinkedIn:* [linkedin.com/in/alvarocarvalhodelima](https://linkedin.com/in/alvarocarvalhodelima/)
 
-🐙 *GitHub:* [github.com/alvaro-lima904](https://github.com/alvaro-lima904)
-
----
-
-### 🇺🇸 English
-
-*Backend Developer Junior | Python | Django*
-
-Backend Developer Junior with professional experience in *Python and Django*, working with system development and maintenance, business rules, CRUD operations, databases and unit testing.
-
-Currently studying *Systems Analysis and Development at Uninter*, with an interest in software testing, application architecture and software engineering best practices.
